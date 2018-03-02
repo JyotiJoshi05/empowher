@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EmpowHer</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="action_settings">Settings</string>
+    <string name="slide_1_desc">An Application to Empower Her</string>
+    <string name="slide_1_text">EmpowHer aims to empower girls and women by providing them information about different opportunities they can take up to be and feel empowered.</string>
+    <string name="head1">For Students</string>
+    <string name="text1">Get regular updates about: Scholarships for girls studying in school, Free technical workshops and events for girls, Scholarships, Events for college students, free courses online.</string>
+    <string name="head2">For Working Women</string>
+    <string name="text2">Get regular updates about: Career re-entry opportunities for women who took a break from work, New courses to improve their knowledge base and Seek for better levels at organizations.</string>
+    <string name="head3">For Homemakers</string>
+    <string name="text3">Get regular updates about: Vocational training for women, Opportunities to sell home made products online, Information about government loan schemes.</string>
+    <string name="head4">Share Your Story</string>
+    <string name="apply">Apply Here</string>
+    <string name="desc">Details :</string>
+    <string name="eligible">Eligibility :</string>
+    <string name="deadline">Deadline :</string>
+    <string name="category">Category :</string>
+    <string name="organizer">Organizer :</string>
+</resources>

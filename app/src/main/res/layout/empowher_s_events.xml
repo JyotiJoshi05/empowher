@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/light_grey">
+
+        <android.support.v7.widget.AppCompatButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:background="@color/colorPrimary"
+            android:padding="15dp"
+            android:text="@string/app_name"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+    <ListView
+        android:id="@+id/lISTSEvents"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="62dp"
+        android:layout_marginLeft="4sp"
+        android:layout_marginStart="4sp"
+        android:layout_marginRight="4sp"
+        android:layout_marginEnd="4sp"
+        android:visibility="gone"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="4.0sp" />
+
+    <ProgressBar
+        android:id="@+id/pROSEventList"
+        style="@android:style/Widget.DeviceDefault.Light.ProgressBar.Inverse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:progressBackgroundTint="@color/bg_screen3"
+        android:progressTint="@color/bg_screen1"
+        android:visibility="visible" />
+    </RelativeLayout>
