@@ -7,7 +7,9 @@ package iwh.empowher;
 public class Constants {
 
     //public static final String BASE_URL = "http://192.168.0.109/";
-    public static final String BASE_URL = "http://6df49a4f.ngrok.io/";
+    //public static final String BASE_URL = "http://259063e6.ngrok.io/";
+    //public static final String BASE_URL = "http://wapology.com/";
+    public static final String BASE_URL = "https://empowher.000webhostapp.com/";
     public static final String REGISTER_OPERATION = "register";
     public static final String LOGIN_OPERATION = "login";
     public static final String CHANGE_PASSWORD_OPERATION = "chgPass";
